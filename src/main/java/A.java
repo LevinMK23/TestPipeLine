@@ -4,6 +4,9 @@ public class A {
         return 5;
     }
 
+    int a = 7;
+    int b = 12;
+
     public static void main(String[] args) {
 
     }
