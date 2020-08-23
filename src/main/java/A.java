@@ -5,6 +5,7 @@ public class A {
     }
 
     int a = 7;
+    int b = 12;
 
     public static void main(String[] args) {
 
